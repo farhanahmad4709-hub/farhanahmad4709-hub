@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Computer Science student with a passion for AI, Machine Learning, and software development. I’m currently learning and building my skills through coding projects, exploring new technologies, and improving every day as a fresher developer. Curious about how technology solves real-world problems and excited to grow in the field of AI/ML.
 
 
